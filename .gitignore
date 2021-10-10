@@ -1,0 +1,11 @@
+.envrc
+.env
+.DS_Store
+.vscode
+build/
+node_modules/
+.serverless/
+.dynamodb/
+/.idea/
+.tgz
+xconf
